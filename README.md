@@ -3,18 +3,18 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C462%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C463%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C463%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .mobi one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .mobi one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,462-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,463 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,462 rows · **Live catalog:** 8,463 domains
+**Public extract:** 8,463 rows · **Live catalog:** 8,463 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/mobi`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MOBI one-word domain 
 
 ### Files
 
-- `mobi.csv` — public CSV extract (8,462 rows)
-- `mobi.json` — public JSON extract (8,462 rows)
+- `mobi.csv` — public CSV extract (8,463 rows)
+- `mobi.json` — public JSON extract (8,463 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -82,7 +82,7 @@ print(df.head())
 | trinity.mobi   | available | $6.99     | $56.99        | 72             | 30     | 7      | name.com          |
 | prompt.mobi    | resell    | —         | —             | 114            | 68     | 6      | Sav.com, LLC - 10 |
 | car.mobi       | premium   | $3,250    | $3,250        | 94             | 46     | 3      | namecheap         |
-| split.mobi     | available | $6.99     | $56.99        | 46             | 29     | 5      | name.com          |
+| cream.mobi     | available | $6.99     | $56.99        | 110            | 28     | 5      | name.com          |
 | container.mobi | resell    | —         | —             | 70             | 65     | 9      | Porkbun LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,462-row public sample | 8,463 live domains                               |
+| 8,463-row public sample | 8,463 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
