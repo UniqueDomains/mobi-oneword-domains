@@ -1,22 +1,22 @@
-# Available .MOBI One-Word Domains (8,463)
+# Available .MOBI One-Word Domains (10,623)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C463%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C463%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C623%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .mobi one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .mobi one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,623 domains** on the canonical page below.
 
-**Public extract:** 8,463 rows · **Live catalog:** 8,463 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,623 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/mobi`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MOBI one-word domain 
 
 ### Files
 
-- `mobi.csv` — public CSV extract (8,463 rows)
-- `mobi.json` — public JSON extract (8,463 rows)
+- `mobi.csv` — public CSV extract (1,000 rows)
+- `mobi.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| eternal.mobi   | available | $6.99     | $56.99        | 92             | 39     | 7      | name.com          |
-| buffet.mobi    | resell    | —         | —             | 103            | 98     | 6      | GoDaddy.com, LLC  |
-| temple.mobi    | premium   | $11,845   | —             | 60             | 82     | 6      | GoDaddy.com, LLC  |
-| instant.mobi   | available | $6.99     | $56.99        | 108            | 37     | 7      | name.com          |
-| android.mobi   | resell    | —         | —             | 88             | 95     | 7      | Porkbun LLC       |
-| sex.mobi       | premium   | $1,250    | —             | 80             | 59     | 3      | name.com          |
-| right.mobi     | available | $6.99     | $56.99        | 82             | 32     | 5      | name.com          |
-| universal.mobi | resell    | —         | —             | 96             | 81     | 9      | Porkbun LLC       |
-| net.mobi       | premium   | $500      | —             | 76             | 53     | 3      | name.com          |
-| okay.mobi      | available | $6.99     | $56.99        | 146            | 31     | 4      | name.com          |
-| fuck.mobi      | resell    | —         | —             | 124            | 70     | 4      | Spaceship, Inc.   |
-| all.mobi       | premium   | $1,250    | $1,250        | 88             | 48     | 3      | name.com          |
-| absolute.mobi  | available | $6.99     | $56.99        | 80             | 31     | 8      | name.com          |
-| own.mobi       | resell    | —         | —             | 122            | 70     | 3      | GoDaddy.com, LLC  |
-| big.mobi       | premium   | $1,250    | $1,250        | 88             | 47     | 3      | name.com          |
-| trinity.mobi   | available | $6.99     | $56.99        | 72             | 30     | 7      | name.com          |
-| prompt.mobi    | resell    | —         | —             | 114            | 68     | 6      | Sav.com, LLC - 10 |
-| car.mobi       | premium   | $3,250    | $3,250        | 94             | 46     | 3      | namecheap         |
-| cream.mobi     | available | $6.99     | $56.99        | 110            | 28     | 5      | name.com          |
-| container.mobi | resell    | —         | —             | 70             | 65     | 9      | Porkbun LLC       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| traders.mobi      | available | $6.99     | —             | 60             | 26     | 7      | name.com          |
+| hotels.mobi       | resell    | —         | —             | 64             | 82     | 6      | Dynadot Inc       |
+| drums.mobi        | premium   | $11,845   | —             | 54             | 11     | 5      | GoDaddy.com, LLC  |
+| Keith.mobi        | available | $64.98    | —             | 66             | 25     | 5      | namecheap         |
+| review.mobi       | resell    | —         | —             | 76             | 38     | 6      | Dynadot Inc       |
+| billofrights.mobi | premium   | $123.75   | —             | 70             | 3      | 14     | name.com          |
+| Trex.mobi         | available | $64.98    | —             | 80             | 24     | 5      | namecheap         |
+| events.mobi       | resell    | —         | —             | 68             | 37     | 6      | Dynadot Inc       |
+| reports.mobi      | available | $6.99     | —             | 58             | 24     | 7      | name.com          |
+| stories.mobi      | resell    | —         | —             | 58             | 36     | 7      | GoDaddy.com, LLC  |
+| pls.mobi          | available | $6.99     | —             | 60             | 23     | 3      | name.com          |
+| solutions.mobi    | resell    | —         | —             | 56             | 31     | 9      | Spaceship, Inc.   |
+| veterans.mobi     | available | $6.99     | —             | 56             | 23     | 8      | name.com          |
+| tips.mobi         | resell    | —         | —             | 80             | 26     | 4      | Automattic Inc.   |
+| makeit.mobi       | available | $6.99     | —             | 82             | 22     | 7      | name.com          |
+| shops.mobi        | resell    | —         | —             | 64             | 24     | 5      | Sav.com, LLC - 43 |
+| results.mobi      | available | $6.99     | —             | 59             | 22     | 7      | name.com          |
+| products.mobi     | resell    | —         | —             | 60             | 23     | 8      | Sav.com, LLC - 46 |
+| machines.mobi     | available | $6.99     | —             | 56             | 22     | 8      | name.com          |
+| webshop.mobi      | resell    | —         | —             | 76             | 22     | 8      | 1API GmbH         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,463-row public sample | 8,463 live domains                               |
+| 1,000-row public sample | 10,623 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBI One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBI One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
