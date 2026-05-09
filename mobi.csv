@@ -203,6 +203,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 11a22ddf-e210-4538-9a5c-9ca48786744c,streamers.mobi,available,6.99,,56,12,9,name.com,,
 11c1d070-f1fb-44df-b04f-215634f0e637,fees.mobi,available,6.99,,63,11,4,name.com,,
 11c6acf9-5d7c-4181-b9bd-1743adb0d947,flashfloods.mobi,available,6.99,,42,1,12,name.com,,
+11d402cb-302c-4911-96f8-c104ceb7db48,assure.mobi,premium,,,80,17,6,,,
 11f1b993-5ab4-498f-b1ac-ec65e518a244,publicopinion.mobi,available,6.99,,70,7,14,name.com,,
 11fe0b41-b628-4dba-bd66-8197090f0fd3,stretches.mobi,available,6.99,,50,2,9,name.com,,
 129ec949-fec3-43dc-9f02-b1ac91290151,yawned.mobi,available,6.99,,53,2,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5e0106cd-6aae-46d7-a890-a726cf51296c,havenobusiness.mobi,available,6.99,,60,1,16,name.com,,
 5e05363e-50e2-42a9-8d2a-c1aa94723325,keepwith.mobi,available,6.99,,48,2,9,name.com,,
 5e10e3c1-d860-406a-b7b0-a8a08f1464c7,stretchout.mobi,available,6.99,,70,2,11,name.com,,
-5e349248-b930-4002-90b1-652e77bf28eb,slipthrough.mobi,available,6.99,,66,1,12,name.com,,

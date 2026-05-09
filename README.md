@@ -1,10 +1,10 @@
-# Available .MOBI One-Word Domains (11,078)
+# Available .MOBI One-Word Domains (11,079)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C078%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C079%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .mobi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,078 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,079 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,078 domains · **Median ask:** $24.97 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,079 domains · **Median ask:** $24.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/tld/mobi`  
 **Best for:** founders, investors, studios
 
@@ -75,6 +75,7 @@ print(df.head())
 | billofrights.mobi | premium   | $123.75   | —             | 70             | 3      | 14     | name.com                                    |
 | veterans.mobi     | available | $6.99     | —             | 56             | 23     | 8      | name.com                                    |
 | gamers.mobi       | resell    | —         | —             | 62             | 24     | 6      | Spaceship, Inc.                             |
+| assure.mobi       | premium   | —         | —             | 80             | 17     | 6      | —                                           |
 | results.mobi      | available | $6.99     | —             | 59             | 22     | 7      | name.com                                    |
 | products.mobi     | resell    | —         | —             | 60             | 23     | 8      | Sav.com, LLC - 46                           |
 | machines.mobi     | available | $6.99     | —             | 56             | 22     | 8      | name.com                                    |
@@ -83,7 +84,6 @@ print(df.head())
 | resources.mobi    | resell    | —         | —             | 58             | 21     | 9      | Sav.com, LLC - 42                           |
 | snaps.mobi        | available | $6.99     | —             | 52             | 20     | 5      | name.com                                    |
 | stores.mobi       | resell    | —         | —             | 62             | 20     | 6      | Spaceship, Inc.                             |
-| knows.mobi        | available | $6.99     | —             | 48             | 20     | 5      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,078 live domains                        |
+| 1,000-row public sample | 11,079 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBI One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBI One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
