@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mobi one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,085 domains · **Median ask:** $24.95 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/mobi`  
 **Best for:** founders, investors, studios
 
@@ -81,9 +81,9 @@ print(df.head())
 | machines.mobi     | available | $6.99     | —             | 56             | 22     | 8      | name.com                                    |
 | webshop.mobi      | resell    | —         | —             | 76             | 22     | 8      | 1API GmbH                                   |
 | generations.mobi  | available | $6.99     | —             | 56             | 20     | 11     | name.com                                    |
-| resources.mobi    | resell    | —         | —             | 58             | 21     | 9      | Sav.com, LLC - 42                           |
-| snaps.mobi        | available | $6.99     | —             | 52             | 20     | 5      | name.com                                    |
 | stores.mobi       | resell    | —         | —             | 62             | 20     | 6      | Spaceship, Inc.                             |
+| snaps.mobi        | available | $6.99     | —             | 52             | 20     | 5      | name.com                                    |
+| investments.mobi  | resell    | —         | —             | 60             | 18     | 11     | Sav.com, LLC - 24                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBI One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBI One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
