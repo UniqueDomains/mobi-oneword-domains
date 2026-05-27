@@ -79,7 +79,7 @@ print(df.head())
 | results.mobi      | available | $6.99     | —             | 59             | 22     | 7      | name.com                                    |
 | products.mobi     | resell    | —         | —             | 60             | 23     | 8      | Sav.com, LLC - 46                           |
 | machines.mobi     | available | $6.99     | —             | 56             | 22     | 8      | name.com                                    |
-| webshop.mobi      | resell    | —         | —             | 76             | 22     | 8      | 1API GmbH                                   |
+| webshop.mobi      | resell    | —         | —             | 76             | 21     | 8      | 1API GmbH                                   |
 | generations.mobi  | available | $6.99     | —             | 56             | 20     | 11     | name.com                                    |
 | stores.mobi       | resell    | —         | —             | 62             | 20     | 6      | Spaceship, Inc.                             |
 | snaps.mobi        | available | $6.99     | —             | 52             | 20     | 5      | name.com                                    |
