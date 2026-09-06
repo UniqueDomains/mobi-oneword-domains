@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mobi one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,658 domains · **Median ask:** $13.65 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/mobi`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| just.mobi | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 16                            |
-| yes.mobi  | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                     |
-| cxl.mobi  | available | $4.48     | $64.98        | low            | low    | 3      | namecheap                                    |
-| fair.mobi | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                             |
-| any.mobi  | premium   | $500      | —             | high           | medium | 3      | name.com                                     |
-| gag.mobi  | available | $6.99     | —             | high           | low    | 3      | name.com                                     |
-| goal.mobi | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| cup.mobi  | premium   | $512      | $512          | medium         | low    | 3      | namesilo                                     |
-| log.mobi  | available | $6.99     | —             | high           | low    | 3      | name.com                                     |
-| dad.mobi  | premium   | $500      | —             | high           | low    | 3      | name.com                                     |
-| xlv.mobi  | available | $4.48     | $64.98        | low            | low    | 3      | namecheap                                    |
-| lend.mobi | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
-| ear.mobi  | premium   | $500      | —             | high           | low    | 3      | name.com                                     |
-| ague.mobi | available | $4.48     | $64.98        | low            | low    | 4      | namecheap                                    |
-| tech.mobi | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                              |
-| ill.mobi  | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                     |
-| alky.mobi | available | $4.48     | $64.98        | low            | low    | 4      | namecheap                                    |
-| wear.mobi | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 18                            |
-| low.mobi  | premium   | $500      | $500          | high           | low    | 3      | name.com                                     |
-| auld.mobi | available | $4.48     | $64.98        | low            | low    | 4      | namecheap                                    |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| cxl.mobi   | available | $4.48     | $64.98        | low            | low    | 3      | namecheap                                    |
+| fair.mobi  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                             |
+| any.mobi   | premium   | $500      | —             | high           | medium | 3      | name.com                                     |
+| gag.mobi   | available | $6.99     | —             | high           | low    | 3      | name.com                                     |
+| goal.mobi  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| cup.mobi   | premium   | $512      | $512          | medium         | low    | 3      | namesilo                                     |
+| log.mobi   | available | $6.99     | —             | high           | low    | 3      | name.com                                     |
+| just.mobi  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 16                            |
+| dad.mobi   | premium   | $500      | —             | high           | low    | 3      | name.com                                     |
+| xlv.mobi   | available | $4.48     | $64.98        | low            | low    | 3      | namecheap                                    |
+| lend.mobi  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
+| ear.mobi   | premium   | $500      | —             | high           | low    | 3      | name.com                                     |
+| ague.mobi  | available | $4.48     | $64.98        | low            | low    | 4      | namecheap                                    |
+| tech.mobi  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                              |
+| ill.mobi   | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                     |
+| alky.mobi  | available | $4.48     | $64.98        | low            | low    | 4      | namecheap                                    |
+| wear.mobi  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 18                            |
+| low.mobi   | premium   | $500      | $500          | high           | low    | 3      | name.com                                     |
+| auld.mobi  | available | $4.48     | $64.98        | low            | low    | 4      | namecheap                                    |
+| arena.mobi | resell    | —         | —             | high           | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBI One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBI One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
