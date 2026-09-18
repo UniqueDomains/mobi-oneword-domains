@@ -1,6 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 b8d09542-4045-4262-a32b-72ef492b02fc,mixing.mobi,available,6.99,,high,low,6,name.com,,,
-2aec3200-2935-4233-9a99-09fd59468709,vocal.mobi,available,6.99,,high,low,5,name.com,,,
 73ee6041-280c-4150-8013-b42b77e3ce39,animals.mobi,available,,,medium,low,7,,,,
 d761eeaa-0df4-4d04-ab4c-0e6af23515e2,nitric.mobi,available,4.48,64.98,low,low,6,namecheap,,,08/08/2026 02:58
 de31451a-83fd-4a6a-94f0-2ecdd95b04b2,speedlimit.mobi,available,6.99,,medium,low,11,name.com,,,
@@ -567,7 +566,7 @@ bdf2ff44-ad22-4001-afdc-7a7dea22f90b,openbar.mobi,available,6.99,,high,low,8,nam
 afd0f43f-ffc7-4997-9c54-352c1399bd26,vodka.mobi,available,,,high,low,5,,,,
 82b662a0-382b-4b3d-a94b-49e025ad1029,acids.mobi,available,6.99,,medium,low,5,name.com,,,
 19034e03-3825-48cc-a3cb-1137479632b9,howareyougoing.mobi,available,6.99,,medium,low,17,name.com,,,
-3e1419f6-7491-4e20-903d-1975144d0e67,equal.mobi,resell,,,high,low,5,"Sav.com, LLC - 2",10/07/2025 15:49,10/07/2026 15:49,
+3e1419f6-7491-4e20-903d-1975144d0e67,equal.mobi,resell,,,high,low,5,Dynadot Inc,10/07/2025 15:49,10/07/2027 15:49,18/09/2026 01:54
 65298ea8-a5f1-47af-965a-9b15afc881ae,beguiled.mobi,available,4.48,64.98,low,low,8,namecheap,,,09/08/2026 09:46
 a686428f-03f5-4604-8dbc-ae6ae6b197d2,dismayed.mobi,available,4.48,64.98,low,low,8,namecheap,,,
 ecb51f6f-7841-49d4-b4d0-a8f85e36f8c6,giveitup.mobi,available,6.99,,high,low,10,name.com,,,
@@ -786,7 +785,6 @@ b2c2ac04-78b6-4377-9a5b-d071080aaef7,dad.mobi,premium,500,,high,low,3,name.com,,
 289a3703-72b7-4dff-9e11-7490a251e364,cooperation.mobi,resell,,,high,low,11,"Network Solutions, LLC",11/10/2006 15:31,11/10/2026 15:31,
 4a8e0faa-a152-477f-948f-d75f0ab896f9,choppy.mobi,available,6.99,,medium,low,6,name.com,,,
 2a7d0612-3f1d-4377-ae69-0ab13e46f5fa,include.mobi,available,6.99,,high,low,7,name.com,,,
-67c92d4a-61b7-4374-b05f-a25c6220ddae,conference.mobi,resell,,,high,low,10,"Sav.com, LLC - 16",11/07/2025 15:15,11/07/2026 15:15,
 2c7314ae-c888-441e-8055-6f9b8d9eb9d5,ecru.mobi,available,4.48,64.98,low,low,4,namecheap,,,09/08/2026 12:26
 84e3948e-aee7-4325-bfec-5318a6752724,normal.mobi,available,,,high,low,6,,,,
 d36e19a0-2201-4a11-a91a-a8ed3b5c8c07,untrue.mobi,available,6.99,,medium,low,6,name.com,,,
@@ -999,3 +997,5 @@ b64c3ff1-7a29-4993-a90c-9a68263373ee,amidships.mobi,available,4.48,64.98,low,low
 01d778b2-0e18-44d7-902f-d82d26da42d6,about.mobi,available,,,high,low,5,,,,
 6f31826c-0b00-47b0-98db-f9a8f5425c19,different.mobi,available,,,high,low,9,,,,
 16d48f86-a747-4d02-8b28-641a61d32337,continual.mobi,available,6.99,56.99,medium,low,9,name.com,,,
+67c97a29-101f-4f99-bf8d-3a21f0ce928f,anarchic.mobi,available,4.48,64.98,low,low,8,namecheap,,,
+00bf8a36-95eb-46b2-96b0-f4052ee46445,Eddie.mobi,available,6.99,,high,low,5,name.com,,,
