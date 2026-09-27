@@ -1,10 +1,10 @@
-# Available .MOBI One-Word Domains (19,268)
+# Available .MOBI One-Word Domains (19,545)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C268%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C545%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .mobi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,268 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,545 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,268 domains · **Median ask:** $14.03 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 19,545 domains · **Median ask:** $13.97 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/mobi`
@@ -74,16 +74,16 @@ print(df.head())
 | alex.mobi  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
 | big.mobi   | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                      |
 | avo.mobi   | available | $7.49     | $55.99        | high           | low    | 3      | namesilo                       |
-| real.mobi  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 5               |
+| exam.mobi  | resell    | —         | —             | high           | low    | 4      | —                              |
 | bra.mobi   | premium   | $500      | —             | high           | low    | 3      | name.com                       |
 | bib.mobi   | available | $7.49     | $55.99        | high           | low    | 3      | namesilo                       |
-| block.mobi | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                |
+| real.mobi  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 5               |
 | ill.mobi   | premium   | $242      | $242          | high           | low    | 3      | namesilo                       |
 | bph.mobi   | available | $7.49     | $55.99        | high           | low    | 3      | namesilo                       |
-| forum.mobi | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 27              |
+| block.mobi | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                |
 | lip.mobi   | premium   | $242      | $242          | high           | low    | 3      | namesilo                       |
 | eta.mobi   | available | $4.48     | $64.98        | high           | low    | 3      | namecheap                      |
-| price.mobi | resell    | —         | —             | high           | low    | 5      | Xin Net Technology Corporation |
+| forum.mobi | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 27              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,268 live domains                        |
+| 1,000-row public sample | 19,545 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
