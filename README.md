@@ -1,10 +1,10 @@
-# Available .MOBI One-Word Domains (12,359)
+# Available .MOBI One-Word Domains (19,268)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C359%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C268%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .mobi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,359 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,268 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,359 domains · **Median ask:** $13.04 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 19,268 domains · **Median ask:** $14.03 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/mobi`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| cxl.mobi  | available | $4.48     | $64.98        | high           | low    | 3      | namecheap                                    |
-| ads.mobi  | resell    | —         | —             | high           | medium | 3      | 1API GmbH                                    |
-| arm.mobi  | premium   | $500      | —             | high           | medium | 3      | name.com                                     |
-| gag.mobi  | available | $6.99     | —             | high           | low    | 3      | name.com                                     |
-| bar.mobi  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
-| boy.mobi  | premium   | $500      | —             | high           | low    | 3      | name.com                                     |
-| log.mobi  | available | $6.99     | —             | high           | low    | 3      | name.com                                     |
-| baby.mobi | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                             |
-| dad.mobi  | premium   | $500      | —             | high           | low    | 3      | name.com                                     |
-| mid.mobi  | available | $6.99     | —             | high           | low    | 3      | name.com                                     |
-| boob.mobi | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                             |
-| ear.mobi  | premium   | $500      | —             | high           | low    | 3      | name.com                                     |
-| rgb.mobi  | available | $6.99     | —             | high           | low    | 3      | name.com                                     |
-| goal.mobi | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| ill.mobi  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
-| xlv.mobi  | available | $4.48     | $64.98        | high           | low    | 3      | namecheap                                    |
-| lamp.mobi | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
-| les.mobi  | premium   | $500      | —             | high           | low    | 3      | name.com                                     |
-| ague.mobi | available | $4.48     | $64.98        | medium         | low    | 4      | namecheap                                    |
-| lend.mobi | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
+| abe.mobi   | available | $4.48     | $64.98        | high           | low    | 3      | namecheap                      |
+| ali.mobi   | resell    | —         | —             | high           | high   | 3      | Xin Net Technology Corporation |
+| all.mobi   | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                       |
+| ade.mobi   | available | $7.49     | $55.99        | high           | low    | 3      | namesilo                       |
+| eat.mobi   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 46              |
+| ano.mobi   | premium   | $242      | $242          | high           | low    | 3      | namesilo                       |
+| atp.mobi   | available | $7.49     | $55.99        | high           | low    | 3      | namesilo                       |
+| alex.mobi  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
+| big.mobi   | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                      |
+| avo.mobi   | available | $7.49     | $55.99        | high           | low    | 3      | namesilo                       |
+| real.mobi  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 5               |
+| bra.mobi   | premium   | $500      | —             | high           | low    | 3      | name.com                       |
+| bib.mobi   | available | $7.49     | $55.99        | high           | low    | 3      | namesilo                       |
+| block.mobi | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                |
+| ill.mobi   | premium   | $242      | $242          | high           | low    | 3      | namesilo                       |
+| bph.mobi   | available | $7.49     | $55.99        | high           | low    | 3      | namesilo                       |
+| forum.mobi | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 27              |
+| lip.mobi   | premium   | $242      | $242          | high           | low    | 3      | namesilo                       |
+| eta.mobi   | available | $4.48     | $64.98        | high           | low    | 3      | namecheap                      |
+| price.mobi | resell    | —         | —             | high           | low    | 5      | Xin Net Technology Corporation |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,359 live domains                        |
+| 1,000-row public sample | 19,268 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBI One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBI One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
